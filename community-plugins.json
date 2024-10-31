@@ -13748,11 +13748,11 @@
     "description": "Quickly add, change, or remove callout wrappers in your notes.",
     "repo": "alythobani/obsidian-callout-toggles"
   },
-	{
-		"id": "markdown-timeline",
-		"name": "Markdown Timeline",
-		"author": "Jiaheng Zhang",
-		"description": "Convert markdown into timeline.",
-		"repo": "recklyss/markdown-timeline"
-	}
+  {
+    "id": "markdown-timeline",
+    "name": "Markdown Timeline",
+    "author": "Jiaheng Zhang",
+    "description": "Convert markdown into timeline.",
+    "repo": "recklyss/markdown-timeline"
+  }
 ]
