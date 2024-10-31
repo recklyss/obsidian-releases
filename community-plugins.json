@@ -13752,7 +13752,7 @@
 		"id": "markdown-timeline",
 		"name": "Markdown Timeline",
 		"author": "Jiaheng Zhang",
-		"description": "Convert markdown into timeline visualization.",
+		"description": "Convert markdown into timeline.",
 		"repo": "recklyss/markdown-timeline"
 	}
 ]
